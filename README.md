@@ -1,0 +1,2 @@
+# intpassmake
+ random passwords
